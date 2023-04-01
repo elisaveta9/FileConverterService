@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<FilmCatalogue>
+    <Film id="1">
+        <Name>Зеленая миля</Name>
+        <ProductionYear>1999</ProductionYear>
+        <Director>Фрэнк Дарабонт</Director>
+        <Screenwriters>
+            <Screenwriter name="Фрэнк Дарабонт"/>
+            <Screenwriter name="Стивен Кинг"/>
+        </Screenwriters>
+        <Producers>
+            <Producer name="Фрэнк Дарабонт"/>
+            <Producer name="Дэвид Валдес"/>
+        </Producers>
+        <Genres>
+            <Genre name="Фрэнк Дарабонт"/>
+            <Genre name="Стивен Кинг"/>
+        </Genres>
+    </Film>
+    <Film id="2">
+        <Name>Побег из Шоушенка</Name>
+        <ProductionYear>1994</ProductionYear>
+        <Director>Фрэнк Дарабонт</Director>
+        <Screenwriters>
+            <Screenwriter name="Фрэнк Дарабонт"/>
+            <Screenwriter name="Стивен Кинг"/>
+        </Screenwriters>
+        <Producers>
+            <Producer name="Лиз Глоцер"/>
+            <Producer name="Дэвид В. Лестер"/>
+            <Producer name="Ники Марвин"/>
+        </Producers>
+        <Genres>
+            <Genre name="Фрэнк Дарабонт"/>
+            <Genre name="Стивен Кинг"/>
+        </Genres>
+    </Film>
+    <Film id="3">
+        <Name>Список Шиндлера</Name>
+        <ProductionYear>1993</ProductionYear>
+        <Director>Стивен Спилберг</Director>
+        <Screenwriters>
+            <Screenwriter name="Стивен Зеллиан"/>
+            <Screenwriter name="Томас Кенилли"/>
+        </Screenwriters>
+        <Producers>
+            <Producer name="Ирвинг Гловин"/>
+            <Producer name="Кэтлин Кеннеди"/>
+            <Producer name="Бранко Лустиг"/>
+        </Producers>
+        <Genres>
+            <Genre name="Стивен Зеллиан"/>
+            <Genre name="Томас Кенилли"/>
+        </Genres>
+    </Film>
+    <Film id="4">
+        <Name>Форрест Гамп</Name>
+        <ProductionYear>1994</ProductionYear>
+        <Director>Роберт Земекис</Director>
+        <Screenwriters>
+            <Screenwriter name="Эрик Рот"/>
+            <Screenwriter name="Уинстон Грум"/>
+        </Screenwriters>
+        <Producers>
+            <Producer name="Венди Файнерман"/>
+            <Producer name="Стив Старки"/>
+            <Producer name="Стив Тиш"/>
+        </Producers>
+        <Genres>
+            <Genre name="Эрик Рот"/>
+            <Genre name="Уинстон Грум"/>
+        </Genres>
+    </Film>
+    <Film id="5">
+        <Name>Назад в будущее</Name>
+        <ProductionYear>1985</ProductionYear>
+        <Director>Роберт Земекис</Director>
+        <Screenwriters>
+            <Screenwriter name="Роберт Земекис"/>
+            <Screenwriter name="Боб Гейл"/>
+        </Screenwriters>
+        <Producers>
+            <Producer name="Нил Кэнтон"/>
+            <Producer name="Боб Гейл"/>
+            <Producer name="Кэтлин Кеннеди"/>
+        </Producers>
+        <Genres>
+            <Genre name="Роберт Земекис"/>
+            <Genre name="Боб Гейл"/>
+        </Genres>
+    </Film>
+    <Film id="6">
+        <Name>Темный рыцарь</Name>
+        <ProductionYear>2008</ProductionYear>
+        <Director>Кристофер Нолан</Director>
+        <Screenwriters>
+            <Screenwriter name="Джонатан Нолан"/>
+            <Screenwriter name="Кристофер Нолан"/>
+            <Screenwriter name="Дэвид С. Гойер"/>
+        </Screenwriters>
+        <Producers>
+            <Producer name="Кристофер Нолан"/>
+            <Producer name="Чарльз Ровен"/>
+            <Producer name="Эмма Томас"/>
+        </Producers>
+        <Genres>
+            <Genre name="Джонатан Нолан"/>
+            <Genre name="Кристофер Нолан"/>
+            <Genre name="Дэвид С. Гойер"/>
+        </Genres>
+    </Film>
+    <Film id="7">
+        <Name>Интерстеллар</Name>
+        <ProductionYear>2014</ProductionYear>
+        <Director>Кристофер Нолан</Director>
+        <Screenwriters>
+            <Screenwriter name="Джонатан Нолан"/>
+            <Screenwriter name="Кристофер Нолан"/>
+        </Screenwriters>
+        <Producers>
+            <Producer name="Кристофер Нолан"/>
+            <Producer name="Линда Обст"/>
+            <Producer name="Эмма Томас"/>
+        </Producers>
+        <Genres>
+            <Genre name="Джонатан Нолан"/>
+            <Genre name="Кристофер Нолан"/>
+        </Genres>
+    </Film>
+</FilmCatalogue>
